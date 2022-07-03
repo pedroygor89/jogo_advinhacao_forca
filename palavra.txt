@@ -6,3 +6,4 @@ abacaxi
 Fruta pão
 uva
 tomate
+Cachorro
